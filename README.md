@@ -6,7 +6,7 @@ Repositorio oficial de respaldo y versionamiento del proyecto de grado desarroll
 
 * **Título:** Diseño de un radioenlace inalámbrico como alternativa de conectividad a Internet para la sede de Desarrollo Rural de la Institución Educativa Santiago Gutiérrez Ángel, vereda La Estrella, Argelia, Valle del Cauca.
 * **Autores:**
-  * Diego Fernando Rueda Gil - investigador principal
+  * Diego Fernando Rueda Gil - Investigador principal
   * Jorge Armando Acosta Vásquez
 * **Programa:** Ingeniería de Sistemas
 * **Tutor:** Orlando Gómez Barboza
